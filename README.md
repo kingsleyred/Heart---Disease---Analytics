@@ -1,2 +1,1 @@
-# Heart---Disease---Analytics
 A concise and insightful piece on the 'top statistical tools used in medical research and clinical data analysis'. Here, the technical writer focuses on the application thereof; with respect to the field of medical research, systematic reviews, meta-analysis and clinical trials. The objective is to provide exactness in deciding on the appropriate tool for your research problems and unique data.
